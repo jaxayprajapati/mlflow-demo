@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fero-jaxay/mlflow-demo/src/mlruns/797377177619868038/6a0840c4eaf247a2b66a75a660d09ac3/artifacts
+end_time: 1696503961671
+entry_point_name: ''
+experiment_id: '797377177619868038'
+lifecycle_stage: active
+run_id: 6a0840c4eaf247a2b66a75a660d09ac3
+run_name: gifted-sponge-199
+run_uuid: 6a0840c4eaf247a2b66a75a660d09ac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696503960332
+status: 3
+tags: []
+user_id: fero-jaxay

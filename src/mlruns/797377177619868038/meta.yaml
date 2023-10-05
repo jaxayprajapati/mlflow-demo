@@ -1,0 +1,6 @@
+artifact_location: file:///home/fero-jaxay/mlflow-demo/src/mlruns/797377177619868038
+creation_time: 1696503960279
+experiment_id: '797377177619868038'
+last_update_time: 1696503960279
+lifecycle_stage: active
+name: elasticnet

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fero-jaxay/mlflow-demo/src/mlruns/797377177619868038/901d02bb8217452781932fb0ae3eeaf7/artifacts
+end_time: 1696504033999
+entry_point_name: ''
+experiment_id: '797377177619868038'
+lifecycle_stage: active
+run_id: 901d02bb8217452781932fb0ae3eeaf7
+run_name: amazing-doe-955
+run_uuid: 901d02bb8217452781932fb0ae3eeaf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696504033030
+status: 3
+tags: []
+user_id: fero-jaxay

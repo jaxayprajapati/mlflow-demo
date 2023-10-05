@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fero-jaxay/mlflow-demo/src/mlruns/797377177619868038/a34a68726131452aa55201ecf347bf16/artifacts
+end_time: 1696504034984
+entry_point_name: ''
+experiment_id: '797377177619868038'
+lifecycle_stage: active
+run_id: a34a68726131452aa55201ecf347bf16
+run_name: treasured-auk-122
+run_uuid: a34a68726131452aa55201ecf347bf16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696504034004
+status: 3
+tags: []
+user_id: fero-jaxay
