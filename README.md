@@ -16,7 +16,7 @@ Before you begin, make sure you have the following software installed:
 
 The project is organized as follows:
 
-mlflow-demo
+'mlflow-demo/': Project Directory
 - `data/`: Data folder
   - `wine-quality.csv`: Wine Quality dataset
 
