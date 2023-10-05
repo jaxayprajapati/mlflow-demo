@@ -27,7 +27,7 @@ The project is organized as follows:
 
 ## Important Notes
 - I haven't ignored any mlflow related file so that whenever I come here I refer
-- To run mlflow Ui follow 
+- To run mlflow Ui open root directory thereafter follow 
 - `cd src`
 - `mlflow ui`
 
