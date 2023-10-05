@@ -26,7 +26,7 @@ The project is organized as follows:
 - `README.md`: This README file
 
 ## Important Notes
-- I haven't ignored any mlflow related file so that whenever I come here I refer
+- I haven't ignored any mlflow related file so that whenever I come here I can refer
 - To run mlflow Ui open root directory thereafter follow 
 - `cd src`
 - `mlflow ui`
