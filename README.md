@@ -12,20 +12,16 @@ Before you begin, make sure you have the following software installed:
 - pip install -r requirements.txt 
 
 
-## Project Structure
-
+## Project Structure of mlflow-demo 
 The project is organized as follows:
 
-mlflow-demo/
-│
-├── data/ # Data folder
-│ ├── wine-quality.csv # Wine Quality dataset
-│
-├── src/ # Source code folder
-│ ├── train.py # Python script to train the ElasticNet model
-│
-├── requirements.txt # Python dependencies
-├── .gitignore # Git ignore file
-├── README.md # This README file
+- `data/`: Data folder
+  - `wine-quality.csv`: Wine Quality dataset
 
+- `src/`: Source code folder
+  - `train.py`: Python script to train the ElasticNet model
+
+- `requirements.txt`: Python dependencies
+- `.gitignore`: Git ignore file
+- `README.md`: This README file
 
