@@ -16,12 +16,9 @@ Before you begin, make sure you have the following software installed:
 
 The project is organized as follows:
 
-'mlflow-demo/': Project Directory
+# mlflow-demo :  Project Directory
 - `data/`: Data folder
   - `wine-quality.csv`: Wine Quality dataset
-
-- `notebooks/`: Jupyter notebooks (optional)
-  - `mlflow_demo.ipynb`: Jupyter notebook for the MLflow demo
 
 - `src/`: Source code folder
   - `train.py`: Python script to train the ElasticNet model
