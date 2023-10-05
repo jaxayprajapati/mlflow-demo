@@ -38,9 +38,6 @@ class ElasticNetModel:
             input_data = train_data.drop(['quality'], axis=1)
             output_data = train_data[['quality']]
             X_train, X_test, y_train, y_test = train_test_split( input_data, output_data, test_size=0.3, random_state=42)
-
-            # local_registry = "sqlite:///mlruns.db"
-            # mlflow.set_tracking_uri(local_registry)
             with mlflow.start_run():
                 model = ElasticNet(alpha=alpha, l1_ratio=l1_ration, random_state=42)
                 model.fit(X_train, y_train)
