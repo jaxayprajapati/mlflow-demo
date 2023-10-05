@@ -25,3 +25,9 @@ The project is organized as follows:
 - `.gitignore`: Git ignore file
 - `README.md`: This README file
 
+## Important Notes
+- I haven't ignored any mlflow related file so that whenever I come here I refer
+- To run mlflow Ui follow 
+- `cd src`
+- `mlflow ui`
+
