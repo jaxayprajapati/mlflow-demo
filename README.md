@@ -7,8 +7,9 @@ This repository contains a demonstration of using MLflow to train, log, and mana
 Before you begin, make sure you have the following software installed:
 
 - Python (3.6 or higher)
-- MLflow (You can install it using `pip install mlflow`)
 - Git (for version control)
+- to install requirements.txt use following command
+- pip install -r requirements.txt 
 
 
 ## Project Structure
