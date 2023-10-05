@@ -12,11 +12,9 @@ Before you begin, make sure you have the following software installed:
 - pip install -r requirements.txt 
 
 
-## Project Structure
-
+## Project Structure of mlflow-demo 
 The project is organized as follows:
 
-# mlflow-demo :  Project Directory
 - `data/`: Data folder
   - `wine-quality.csv`: Wine Quality dataset
 
